@@ -1,6 +1,6 @@
 def ft_water_reminder():
-    day = int(input("Days since last watering: ")
+    day = int(input("Days since last watering: "))
     if day > 2:
         print("Water the plants!")
-    else
+    else:
         print("Plants are fine")
